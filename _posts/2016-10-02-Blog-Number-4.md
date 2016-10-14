@@ -53,6 +53,9 @@ published: true
   <tr>
     <td>I will make sure I use more time  on the sheets rather than my blog no matter what so I get everything done correctly. I will ask more questions as well just to be sure and try and get help from my peers.</td>
   </tr>
+  <br />
+  <iframe height="320" width="720"
+  src="https://docs.google.com/spreadsheets/d/1TxD83NYFFNn8RcDAzaUGyTevnhRb_08pFFefNGoovEc/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 </table>
 
 
