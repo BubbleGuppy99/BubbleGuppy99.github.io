@@ -13,7 +13,7 @@
 /* BASE RULES */
 /**************/
 img {
-    opacity: 0.1;
+    opacity: 0.5;
     filter: alpha(opacity=50); /* For IE8 and earlier */
 }
 
@@ -37,7 +37,7 @@ body {
   padding: 0 10px;
   width: 100%;
   background-color: white;
-  opacity: 0.8;
+  opacity: 1.2;
 }
 
 h1, h2, h3, h4, h5, h6 {
