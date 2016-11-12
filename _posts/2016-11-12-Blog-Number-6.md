@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title:</td>
-    <td>Using Google Sheets for Retail Part 2</td>
+    <td>Using Google Sheets for Retail Part 3 and embedding youtube videos</td>
   </tr>
   <tr>
     <td>Date:</td>
@@ -53,6 +53,7 @@ published: true
   <tr>
     <td>I will focus on the easier things rather than the hard things and when I have done that I can move on.</td>
   </tr>
+  <iframe width="720" height="320" src="https://www.youtube.com/embed/cxT5xfuh3QA?rel=0" frameborder="0" allowfullscreen></iframe>
 </table>
 
 
