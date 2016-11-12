@@ -54,7 +54,7 @@ published: true
   <tr>
     <td>I will make sure I use more time  on the sheets rather than my blog, no matter what so that I get everything done correctly. I will ask more questions as well just to be sure and try and get help from my peers. I will also not get distracted by other people.</td>
   </tr>
-  <iframe src="https://docs.google.com/spreadsheets/d/1TxD83NYFFNn8RcDAzaUGyTevnhRb_08pFFefNGoovEc/pubhtml?gid=652866370&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+  <iframe  width = "720" height = "320" src="https://docs.google.com/spreadsheets/d/1TxD83NYFFNn8RcDAzaUGyTevnhRb_08pFFefNGoovEc/pubhtml?gid=652866370&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
  </table>
 
 
