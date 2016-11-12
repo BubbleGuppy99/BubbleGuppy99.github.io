@@ -29,10 +29,7 @@ published: true
     <td>Not really,I managed to work out the discount but not anything else.</td>
   </tr>
 </table>
-<br />
-  <iframe height="320" width="720"
-  src=https://docs.google.com/spreadsheets/d/1TxD83NYFFNn8RcDAzaUGyTevnhRb_08pFFefNGoovEc/edit#gid=652866370></iframe>
-</table>
+
 
 
 <table>
@@ -57,6 +54,12 @@ published: true
   <tr>
     <td>I will make sure I use more time  on the sheets rather than my blog, no matter what so that I get everything done correctly. I will ask more questions as well just to be sure and try and get help from my peers. I will also not get distracted by other people.</td>
   </tr>
+  <br />
+  <iframe height="320" width="720"
+  src=https://docs.google.com/spreadsheets/d/1TxD83NYFFNn8RcDAzaUGyTevnhRb_08pFFefNGoovEc/edit#gid=652866370></iframe>
+</table>
+
+
 </table>
 
 
