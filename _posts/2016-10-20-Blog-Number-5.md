@@ -54,12 +54,6 @@ published: true
   <tr>
     <td>I will make sure I use more time  on the sheets rather than my blog, no matter what so that I get everything done correctly. I will ask more questions as well just to be sure and try and get help from my peers. I will also not get distracted by other people.</td>
   </tr>
-  <br />
-  <iframe height="320" width="720"
-  src=https://docs.google.com/a/challoners.org/spreadsheets/d/1TxD83NYFFNn8RcDAzaUGyTevnhRb_08pFFefNGoovEc/edit?usp></iframe>
-</table>
-
-
-</table>
+ </table>
 
 
