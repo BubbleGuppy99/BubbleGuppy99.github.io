@@ -26,7 +26,7 @@ published: true
   <tr>
     <td>Did I reach my target? 
 (add details to "Lesson Review")</td>
-    <td>Not really, I made the tables however I did not get onto the discount formula</td>
+    <td>Not really, I made the tables however I did not get onto the discount formula. However I did complete my sales for February.</td>
   </tr>
 </table>
 
@@ -39,19 +39,19 @@ published: true
     <td>How did I learn? What strategies were effective? </td>
   </tr>
   <tr>
-    <td>Mainly by focused listening and watching a demonstration by Mr Tansley. I noted everything down mentally and went carefully among the steps. </td>
+    <td>I listened carefully at the start of the lesson and also used some websites to help me understand some of the formulas. </td>
   </tr>
   <tr>
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>I found that keeping up with everything was quite hard and needed to pay attention to the task at hand. I also found it hard to remember everything and hence why I didn't reach my target</td>
+    <td>I kept on asking others to help me rather than doing things on my own. This distracted me as I eagerly waited for an answer rather than helping myself through perseverance.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>I will make sure I use more time  on the sheets rather than my blog no matter what so I get everything done correctly. I will ask more questions as well just to be sure and try and get help from my peers.</td>
+    <td>I will make sure I use more time  researching on what I have to understand in order to make my shop work. I will not distract others and will focus on my spreadsheet.</td>
   </tr>
   <br />
   <iframe height="320" width="720"
