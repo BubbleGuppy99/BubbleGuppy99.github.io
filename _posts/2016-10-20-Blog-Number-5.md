@@ -56,7 +56,7 @@ published: true
   </tr>
   <br />
   <iframe height="320" width="720"
-  src=https://docs.google.com/spreadsheets/d/1TxD83NYFFNn8RcDAzaUGyTevnhRb_08pFFefNGoovEc/edit#gid=652866370></iframe>
+  src=https://docs.google.com/a/challoners.org/spreadsheets/d/1TxD83NYFFNn8RcDAzaUGyTevnhRb_08pFFefNGoovEc/edit?usp></iframe>
 </table>
 
 
