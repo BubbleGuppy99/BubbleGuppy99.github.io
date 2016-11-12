@@ -17,7 +17,7 @@ published: true
   </tr>
   <tr>
     <td>Starting point:</td>
-    <td>I had no knowledge on how to use google sheets for working out discount</td>
+    <td>I was a bit behind on the work and had liitle knoweledge on how to work out discounts, profit and overall expenditure.</td>
   </tr>
   <tr>
     <td>Target for this lesson?</td>
@@ -45,13 +45,13 @@ published: true
     <td>What limited my learning? Which habits do I need to work on? </td>
   </tr>
   <tr>
-    <td>I found that keeping up with everything was quite hard and needed to pay attention to the task at hand. I also found it hard to remember everything and hence why I didn't reach my target. I also spent time on my blog instead of the sheets.</td>
+    <td>I found that keeping up with everything was quite hard and needed to pay attention to the task at hand. I also found it hard to remember everything and hence why I didn't reach my target. I also spent time on my blog instead of the sheets which impeded my learning immensely.</td>
   </tr>
   <tr>
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>I will make sure I use more time  on the sheets rather than my blog no matter what so I get everything done correctly. I will ask more questions as well just to be sure and try and get help from my peers. I will also not get distracted and try to persevere.</td>
+    <td>I will make sure I use more time  on the sheets rather than my blog, no matter what so that I get everything done correctly. I will ask more questions as well just to be sure and try and get help from my peers. I will also not get distracted by other people.</td>
   </tr>
 </table>
 
