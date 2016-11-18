@@ -30,7 +30,7 @@ body {
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: center;
-  font: 18px/1.4 $helveticaNeue;
+  font: 18px/1.4 $lobster;
   color: $green;
 }
 
@@ -80,11 +80,11 @@ p {
 }
 
 a {
-  color: $guppy;
+  color: $blue;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: $guppy;
   }
 }
 
