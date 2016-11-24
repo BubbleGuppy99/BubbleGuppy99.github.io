@@ -9,7 +9,7 @@ published: true
 <table>
   <tr>
     <td>Title:</td>
-    <td>Making adjustments to our blogs</td>
+    <td>Making adjustments to our blogs.</td>
   </tr>
   <tr>
     <td>Date:</td>
@@ -21,7 +21,7 @@ published: true
   </tr>
   <tr>
     <td>Target for this lesson?</td>
-    <td>To change fonts and colours in my blog</td>
+    <td>To change fonts and colours in my blog.</td>
   </tr>
   <tr>
     <td>Did I reach my target? 
