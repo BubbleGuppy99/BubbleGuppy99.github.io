@@ -53,6 +53,7 @@ published: true
   <tr>
     <td>I will use logical thinking to solve such problems in the future.</td>
   </tr>
+  <script src="//repl.it/embed/IvPr/2.js"></script>
 </table>
 
 
