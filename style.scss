@@ -28,7 +28,8 @@ body {
 	background-repeat: no-repeat;
 	background-attachment: fixed;
 	background-position: center;
-  font: 18px/1.4 $lobster;
+  font: 18px/1.4;
+  font-family: 'Kurale', serif;  
   color: $green;
 }
 
@@ -222,7 +223,7 @@ img {
 nav {
   float: right;
   margin-top: 23px; // @TODO: Vertically middle align
-  font-family: $helveticaNeue;
+  font-family: 'Kurale', serif;
   font-size: 18px;
 
   @include mobile {
