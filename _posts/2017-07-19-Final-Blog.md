@@ -51,8 +51,10 @@ published: true
     <td>What will I change for next time? How will I improve my learning?</td>
   </tr>
   <tr>
-    <td>The excessive amounts of talking led to a class detentions and halts in learning. I will rectify such occurrences in lessons to come.</td>
-  </tr>
+    <td>The excessive amounts of talking led to a class detentions and halts in learning. I will rectify such occurrences in lessons to come.</td> 
+</tr>
+<script src="//repl.it/embed/FXVm/8.js"></script>
+ 
 </table>
 
 
